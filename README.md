@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js Quiz Application
 
 ## Build Setup
 
